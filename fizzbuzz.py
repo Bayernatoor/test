@@ -18,7 +18,7 @@ for num in range(1, 101):
         num_none.append(num)
 
 
-print(Fizzbuzz , Fizzbuzz)
+print('Fizzbuzz: ', Fizzbuzz)
 print('3: ', num_3)
 print('5: ', num_5)
 print('none: ', num_none)
